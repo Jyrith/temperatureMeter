@@ -8,6 +8,9 @@ Read temperature values using internal ADC of atmega168/atmega328.
 - Bluetooth serial module
 - LM50 temperature sensor
 
+[PDF version of the Wiring diagram](doc/BluetoothTemperatureMeter_X2_3V3.pdf)
+
+![Wiring diagram](doc/BluetoothTemperatureMeter_X2_3V3.jpg "Wiring diagram")
 
 #### LM50 temperature sensor, 500mV output at 0°C, 10mV/°C
  - Sensors can calibrate at 0°C in water-ice mixture
